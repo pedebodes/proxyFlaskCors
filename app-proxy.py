@@ -15,7 +15,7 @@ def obter_token():
 
     data = {
         'username': 'goliveira',
-        'password': 'hhv2573@2.'
+        'password': 'hhv2573@2'
     }
 
     # data = {
