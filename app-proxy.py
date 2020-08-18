@@ -8,9 +8,14 @@ CORS(app)
 TOKEN = None
 
 def obter_token():
+    # data = {
+    #     'username':'andre.saraujo',
+    #     'password': 'Gilberto1'
+    # }
+
     data = {
-        'username':'andre.saraujo',
-        'password': 'Gilberto1'
+        'username': 'goliveira',
+        'password': 'hhv2573@2.'
     }
 
     # data = {
